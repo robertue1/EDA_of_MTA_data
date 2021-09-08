@@ -2,9 +2,9 @@
 
 #### Question/need:
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build?
-  *For my analysis, the framing question would be: How could we maximize the number of people submitting their signatures, providing their emails and also assisting to the gala and making contribuitions to the cause. 
+  * For my analysis, the framing question would be: How could we maximize the number of people submitting their signatures, providing their emails and also assisting to the gala and making contribuitions to the cause. 
 * Who benefits from exploring this question or building this model/system?
-  *The most basic answer to this question would be the WTWY organization, due to the possibility of throwing a successful event; in a more general sense, by helping WTWY acomplish their mission and advance towards the pursue of their vision, we will be using Data Science to try to reduce the gender gap, increase the representation of women in the tech sector and providing the future generation of girls with role models that could influence the path they follow in life. 
+  * The most basic answer to this question would be the WTWY organization, due to the possibility of throwing a successful event; in a more general sense, by helping WTWY acomplish their mission and advance towards the pursue of their vision, we will be using Data Science to try to reduce the gender gap, increase the representation of women in the tech sector and providing the future generation of girls with role models that could influence the path they follow in life. 
 
 
 
