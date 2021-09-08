@@ -1,15 +1,13 @@
 ### Project Proposal Template
 
-Before you start project work for a course, you **should be able to complete the following proposal template**, addressing the questions listed as completely as possible. 
-However, keep in mind that throughout the design iterations of your project, many parts of it will likely change 
-(i.e. increase/decrease in number of samples, types of features or algorithm used, etc), so this is just a starting point.
-Also, if you are unsure in some areas, you should still submit a partial proposal to receive feedback from instructors. 
-
-In addition to submitting this plan, you may discuss the areas below with an instructor in a **scope meeting**.
-
 #### Question/need:
-* What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
+* What is the framing question of your analysis, or the purpose of the model/system you plan to build?
+  *For my analysis, the framing question would be: How could we maximize the number of people submitting their signatures, providing their emails and also assisting to the gala and making contribuitions to the cause. 
 * Who benefits from exploring this question or building this model/system?
+  *The most basic answer to this question would be the WTWY organization, due to the possibility of throwing a successful event; in a more general sense, by helping WTWY acomplish their mission and advance towards the pursue of their vision, we will be using Data Science to try to reduce the gender gap, increase the representation of women in the tech sector and providing the future generation of girls with role models that could influence the path they follow in life. 
+
+
+
 
 #### Data Description:
 * What dataset(s) do you plan to use, and how will you obtain the data?
