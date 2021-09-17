@@ -11,13 +11,16 @@ For this WTWY project, we wanted to reach the highest amount of people by using 
 # Design
 
 We focused on determining which were the higher traffic MTA stations in the city in the months that lead to the time of the gala (February-June). After having found that information, we analyzed the results in base of the days, and finally, we did a granular study to determine specifically which entries were the most transited, having in mind being able to provide recommendations to the WTWY street teams that will include: which entry, what days and what times of the day to target.
+
 Once we were able to provide initial results, we decided to broaden the study and include Zillow rental prices to find a high income and high occupancy neighborhood, analyze subway stations in the area and provide a recommendation that will target a population that could make significant contributions to the cause of WTWY.
 
 
 
 # Data
-The main data source for this project was the MTA turnstile data, which initially included more than 3.5 million rows, including cumulative entries and exits for each turnstile in the system in ~ 4-hour intervals. 4 months of data were ingested and analyzed.
-The secondary data source was Zillow, which gave us access to the variation of rent prices in the city of New York categorized by zip codes. 7 months of recent data were analyzed.
+
+The main data source for this project was the [MTA turnstile data](http://web.mta.info/developers/turnstile.html), which initially included more than 3.5 million rows, including cumulative entries and exits for each turnstile in the system in ~ 4-hour intervals. 4 months of data were ingested and analyzed.
+
+The secondary data source was [Zillow](https://www.zillow.com/research/data/), which gave us access to the variation of rent prices in the city of New York categorized by zip codes. 7 months of recent data were analyzed.
 
 # Algorithms
 
